@@ -1,0 +1,11 @@
+target
+.idea/
+*.iml
+
+**/test/resources/zip/out*
+java-repo/src/test/resources/db
+temp-agenda/agl.sh
+v.patch
+
+dbsimple
+scenicView.properties

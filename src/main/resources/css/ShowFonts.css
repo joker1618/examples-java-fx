@@ -1,0 +1,9 @@
+.jkGrid {
+    -fx-font-size: 20;
+}
+.cellBox {
+    -fx-padding: 5 10 5 10;
+}
+.row-odd {
+    -fx-background-color: YELLOW;
+}
